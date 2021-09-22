@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": "123456788",
-    "database": "nodejs17_movie",
+    "password": "11111",
+    "database": "nodejs_movie",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "serverPort": 3000
